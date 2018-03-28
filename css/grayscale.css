@@ -237,7 +237,6 @@ a:focus {
     text-shadow: 1px 1px 2px black; 
 }
 .foto-perfil{
-    border-style: solid black 3px;
      box-shadow: box-shadow: 2px 2px 41px #131414;
 }
 /*mis proyectos section*/
@@ -256,6 +255,14 @@ a:focus {
 .card-img-top{
     width:30%;
 
+}
+.card{
+    background: white;
+    height:480px;
+    width: 370px;
+    border-radius: 20px;
+    margin: 0px -5px 0px 66px;
+    
 }
     button{
 	background-color: #040946;
