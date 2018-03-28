@@ -244,7 +244,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background: url(../img/posit.jpeg) no-repeat center center scroll;
+  background: url(../img/patrick-perkins-350622-unsplash.jpg) no-repeat center center scroll;
   background-color: black;
   opacity: 0.9;
   -webkit-background-size: cover;
@@ -261,8 +261,8 @@ a:focus {
     height:480px;
     width: 370px;
     border-radius: 20px;
-    margin: 0px -5px 0px 66px;
-    
+    color:black;
+    text-shadow:0px 1px 2px white;
 }
     button{
 	background-color: #040946;
