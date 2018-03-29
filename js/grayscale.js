@@ -49,7 +49,7 @@ function init() {
 
         // The latitude and longitude to center the map (always required)
         center: new google.maps.LatLng(40.6700, -70.657546
-), // New York
+), // independencia
 
         // Disables the default Google Maps UI components
         disableDefaultUI: true,

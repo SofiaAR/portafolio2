@@ -242,7 +242,6 @@ a:focus {
 /*mis proyectos section*/
 .download-section {
   width: 100%;
-  padding: 50px 0;
   color: white;
   background: url(../img/patrick-perkins-350622-unsplash.jpg) no-repeat center center scroll;
   background-color: black;
@@ -253,17 +252,33 @@ a:focus {
   -o-background-size: cover;
 }
 .card-img-top{
-    width:30%;
+    width:50%;
 
 }
 .card{
     background: whitesmoke;
-    height:480px;
-    width: 370px;
+    height:auto;
     border-radius: 20px;
     color:black;
     text-shadow:0px 1px 2px white;
     
+}
+#inicio{
+    margin-left: 75px;
+}
+#medio{
+    padding-left: 15px;
+    margin-left: 7;
+    margin-right: 45px;
+    border-left-width: 2px;
+    margin-left: 65px;
+}
+#final{
+    
+}
+#download{
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
     button{
 	background-color: #040946;
@@ -361,6 +376,7 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
 body {
-  webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
+   webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
